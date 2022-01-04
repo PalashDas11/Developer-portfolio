@@ -114,6 +114,7 @@ div img {
 #Experience{
     width: 100%;
     padding-top: 100px;
+    padding-bottom: 100px;
     background-image: url(image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left ;
@@ -157,4 +158,12 @@ div img {
 .baby-developer p{
     font-size: .9rem;
 
+}
+#footer{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+#footer h5{
+    font-weight: 600;
 }
